@@ -1,2 +1,3 @@
 hello git
 git is a good softwear!
+git is a free softwear!
